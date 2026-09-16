@@ -43,6 +43,12 @@ cd PIUDCPA_IT3_N_Klavins
 ```bash
 npm install
 ```
+
+4. Environment Configuration
+   Copy the environment file to set up your variables:
+```bash
+cp .env.example .env
+```
 ## Contact & Support
 
 Project Maintainer - [niks.klavins@va.lv](mailto:niks.klavins@va.lv)  
