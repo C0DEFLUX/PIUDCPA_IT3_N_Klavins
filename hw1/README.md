@@ -11,3 +11,9 @@ This is a small web application that solves the biggest problem in the world and
 * Full automatization using AI
 * Real time statistics using AI
 * Full risk and profit calculation using AI
+
+## Techstack
+* **Frontend:** HTML10, CSS12, JavaScript Pro
+* **Backend:** Node.php / React.html
+* **Database:** YourSQL
+* **AI** Top LLM in the entire industries
