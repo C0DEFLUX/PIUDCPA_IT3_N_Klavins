@@ -29,3 +29,9 @@ Before getting started, ensure you have the following installed on your machine:
 1. Clone the repository:
 ```bash
 git clone [https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins](https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins)
+```
+
+2. Navigate into the project directory:
+```bash
+cd PIUDCPA_IT3_N_Klavins
+```
