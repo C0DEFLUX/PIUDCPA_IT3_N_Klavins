@@ -8,3 +8,6 @@ This is a small web application that solves the biggest problem in the world and
 * Profit maximizing
 * Money making in real time
 * AI powered
+* Full automatization using AI
+* Real time statistics using AI
+* Full risk and profit calculation using AI
