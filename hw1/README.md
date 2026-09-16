@@ -43,3 +43,7 @@ cd PIUDCPA_IT3_N_Klavins
 ```bash
 npm install
 ```
+## Contact & Support
+
+Project Maintainer - [niks.klavins@va.lv](mailto:niks.klavins@va.lv)  
+Project Link: [https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins](https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins)
