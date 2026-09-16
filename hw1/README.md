@@ -13,7 +13,7 @@ This is a small web application that solves the biggest problem in the world and
 * Full risk and profit calculation using AI
 
 ## Techstack
+* **AI** The best LLM in the entire industries
 * **Frontend:** HTML10, CSS12, JavaScript Pro
 * **Backend:** Node.php / React.html
 * **Database:** YourSQL
-* **AI** Top LLM in the entire industries
