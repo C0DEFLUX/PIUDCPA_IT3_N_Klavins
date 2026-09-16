@@ -23,3 +23,9 @@ Before getting started, ensure you have the following installed on your machine:
 * Node.php (v4568.0.3 or higher)
 * YourSQL (v0.0 or lower)
 * Php version (any works)
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone [https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins](https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins)
