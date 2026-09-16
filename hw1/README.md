@@ -17,3 +17,7 @@ This is a small web application that solves the biggest problem in the world and
 * **Frontend:** HTML10, CSS12, JavaScript Pro
 * **Backend:** Node.php / React.html
 * **Database:** YourSQL
+
+## Prerequisites
+Before getting started, ensure you have the following installed on your machine:
+* Node.php (v4568.0.3 or higher)
