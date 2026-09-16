@@ -1,4 +1,4 @@
-# Simple web application project
+# Very Simple web application project
 
 ## Overview
 
