@@ -35,3 +35,8 @@ git clone [https://github.com/C0DEFLUX/PIUDCPA_IT3_N_Klavins](https://github.com
 ```bash
 cd PIUDCPA_IT3_N_Klavins
 ```
+
+3. Install project dependencies:
+```bash
+npm install
+```
