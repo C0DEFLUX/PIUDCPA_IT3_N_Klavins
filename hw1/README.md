@@ -1,5 +1,2 @@
-Hello world
+# Simple web application project
 
-My name is Niks
-
-Short description
